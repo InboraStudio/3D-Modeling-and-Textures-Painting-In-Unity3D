@@ -1,0 +1,16 @@
+.vs/
+.vscode/
+bin/
+obj/
+Library/
+Logs/
+UserSettings/
+Temp/
+*.csproj
+*.sln
+*.suo
+*.user
+*.unitypackage
+*.meta
+.DS_Store
+Thumbs.db
