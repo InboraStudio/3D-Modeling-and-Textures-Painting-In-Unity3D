@@ -30,3 +30,4 @@ Unity 2022 LTS and above
 ## License
 
 MIT
+- Added null checks to TextureManager
