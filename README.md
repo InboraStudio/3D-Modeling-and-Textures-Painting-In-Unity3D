@@ -32,3 +32,4 @@ Unity 2022 LTS and above
 MIT
 - Added null checks to TextureManager
 - Improved shader compilation
+- Enhanced texture painting workflow
