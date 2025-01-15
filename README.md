@@ -33,3 +33,4 @@ MIT
 - Added null checks to TextureManager
 - Improved shader compilation
 - Enhanced texture painting workflow
+- Fixed PBR metallic parameters
