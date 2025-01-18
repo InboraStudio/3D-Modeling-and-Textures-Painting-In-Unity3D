@@ -34,3 +34,4 @@ MIT
 - Improved shader compilation
 - Enhanced texture painting workflow
 - Fixed PBR metallic parameters
+- Added model batching system
