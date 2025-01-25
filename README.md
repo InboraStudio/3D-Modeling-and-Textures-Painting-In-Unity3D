@@ -36,3 +36,4 @@ MIT
 - Fixed PBR metallic parameters
 - Added model batching system
 - Added tangent space normal maps
+- Refactored material assignment
