@@ -37,3 +37,4 @@ MIT
 - Added model batching system
 - Added tangent space normal maps
 - Refactored material assignment
+- Added LOD support for models
