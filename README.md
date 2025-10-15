@@ -88,7 +88,10 @@ Vectors → Represent position, direction, velocity, color (RGB), normals
 
 ### Type Kernal
 1. Navier–Stokes equations describe fluid motion
-   <img width="430" height="92" alt="image" src="https://github.com/user-attachments/assets/fcbaebbc-2ceb-464b-b525-c3f58b0b9352" />
+
+<img width="430" height="92" alt="image" src="https://github.com/user-attachments/assets/fcbaebbc-2ceb-464b-b525-c3f58b0b9352" />
+
+
 2. Simplified for particle systems (SPH - Smoothed Particle Hydrodynamics).
 - Used for smooth 3D rotation without gimbal lock.
 - Represent rotation in 4D space:
